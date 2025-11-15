@@ -4,16 +4,6 @@ Medical Insurance Premium Predictor
 A production-ready machine-learning system built with FastAPI, Scikit-Learn, and a layered architecture.
 This project predicts health-insurance premiums using customer attributes such as age, BMI, smoking habits, region, etc.
 
-Below is a **clean, polished, copy-pastable README.md** for your GitHub repository.
-It is structured exactly the way industry projects write it — clear, professional, and complete.
-
----
-
-# 🚑 Medical Insurance Premium Predictor
-
-**A production-ready machine-learning system built with FastAPI, Scikit-Learn, and a layered architecture.**
-This project predicts health-insurance premiums using customer attributes such as age, BMI, smoking habits, region, etc.
-
 ---
 
 ## 📌 Table of Contents
