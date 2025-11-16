@@ -8,18 +8,18 @@ This project predicts health-insurance premiums using customer attributes such a
 
 ## 📌 Table of Contents
 
-* [Overview](#overview)
-* [Architecture](#architecture)
-* [Quality Attributes Achieved](#quality-attributes-achieved)
-* [Project Structure](#project-structure)
-* [Tech Stack](#tech-stack)
-* [Setup Instructions](#setup-instructions)
-* [Training the Model](#training-the-model)
-* [Running the API](#running-the-api)
-* [API Usage](#api-usage)
-* [Testing & Coverage](#testing--coverage)
-* [Performance Benchmark](#performance-benchmark)
-* [Future Enhancements](#future-enhancements)
+* [Overview](#-overview)
+* [Architecture](#-architecture)
+* [Quality Attributes Achieved](#-quality-attributes-achieved)
+* [Project Structure](#-project-structure)
+* [Tech Stack](#-tech-stack)
+* [Setup Instructions](#-setup-instructions)
+* [Training the Model](#-training-the-model)
+* [Running the API](#-running-the-api)
+* [API Usage](#-api-usage)
+* [Testing & Coverage](#-testing--coverage)
+* [Performance Benchmark](#-performance-benchmark)
+* [Future Enhancements](#-future-enhancements)
 
 ---
 
