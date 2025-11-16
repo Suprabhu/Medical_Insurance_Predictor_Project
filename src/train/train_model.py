@@ -72,10 +72,10 @@ def train(save_model_path="models/model_v1.pkl", save_metrics_path="models/metri
     with open(save_metrics_path, "w") as f:
         json.dump(metrics, f, indent=2)
 
-    print("✅ Model trained and saved!")
-    print("📁 Model path:", save_model_path)
-    print("📊 Metrics:", metrics)
-    print("📜 Feature columns saved to models/feature_columns.json")
+    print("Model trained and saved!")
+    print("Model path:", save_model_path)
+    print("Metrics:", metrics)
+    print("Feature columns saved to models/feature_columns.json")
 
 
 if __name__ == "__main__":
